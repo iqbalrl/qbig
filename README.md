@@ -31,7 +31,7 @@ sudo apt-get install php7.1 php7.1-common
 sudo apt-get install php7.1-curl php7.1-xml php7.1-zip php7.1-gd php7.1-mysql php7.1-mbstring 
 ```
 
-**Centos Install PHP7 :** 
+**Cent os Install PHP7 :** 
 ```
 yum -y remove php*
 yum install http://rpms.remirepo.net/enterprise/remi-release-7.rpm -y
